@@ -1,5 +1,5 @@
 ## 401 Pre-Work & Learning Journal
-a spot to drop progress on 401 pre-work assignments (and maybe independent study as well)
+_A spot to drop progress on 401 pre-work assignments as well as other preparatory self-study records_
 
 ### 7/1/2022
 

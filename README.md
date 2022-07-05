@@ -1,6 +1,60 @@
 ## 401 Pre-Work & Learning Journal
 _A spot to drop progress on 401 pre-work assignments as well as other preparatory self-study records (and randos)_
 
+
+**7/4/2022 -Day 4:**  
+_Happy 4th of July! Sleep was broken a LOT last night (Thanks Bob!) I am dehydrated (and really not wanting water) and can barely hold my eyes open!_
+
+
+<ins>401Pre-Work</ins>
+
+- [Git Practice - Part 3 of 5 -Introduction Sequence -DONE](Images/GitPractice_Moving_Work_Around.jpg)
+
+
+---
+
+**7/3/2022 -Day 3:**  
+_My sister braided my hair last night into the wee-early hours of the morning. I got home at 5:00 A.M. so of course I'm exhausted again... but my hair is purple so Yay!_
+
+
+<ins>401Pre-Work</ins>
+
+- [Git Practice - Part 2 of 5 -Introduction Sequence DONE-](Images/GitPractice_Ramping_Up.jpg)
+
+<img src="Images/TypingPracticeHeader-GitShell.JPG" width="350" />
+
+- [Typing Practice - Git Shell session 1 -DONE](Images/07032022_Typing_Practice_GitShell_session_1.jpg)
+
+- [Typing Practice - Git Shell session 2 -DONE](Images/07032022_Typing_Practice_GitShell_session_2.jpg)
+
+- [Typing Practice - Git Shell session 3 -DONE](Images/07032022_Typing_Practice_GitShell_session_3.jpg)
+
+- [Typing Practice - Git Shell session 4 -DONE](Images/07032022_Typing_Practice_GitShell_session_4.jpg)
+
+- [Typing Practice - Git Shell session 5 -DONE](Images/07032022_Typing_Practice_GitShell_session_5.jpg)
+
+- [Typing Practice - Git Shell session 6 -DONE](Images/07032022_Typing_Practice_GitShell_session_6.jpg)
+
+- [Typing Practice - Git Shell session 7 -DONE](Images/07032022_Typing_Practice_GitShell_session_7.jpg)
+
+- [Typing Practice - Git Shell session 8 -DONE](Images/07032022_Typing_Practice_GitShell_session_8.jpg)
+
+- [Typing Practice - Git Shell session 9 -DONE](Images/07032022_Typing_Practice_GitShell_session_9.jpg)
+
+- [Typing Practice - Git Shell session 10 -DONE](Images/07032022_Typing_Practice_GitShell_session_10.jpg)
+
+- [Typing Practice - Git Shell session 11 -DONE](Images/07032022_Typing_Practice_GitShell_session_11.jpg)
+
+- [Typing Practice - Git Shell session 12 -DONE](Images/07032022_Typing_Practice_GitShell_session_12.jpg)
+
+- [Typing Practice - Git Shell session 13 -DONE](Images/07032022_Typing_Practice_GitShell_session_13.jpg)
+
+- [Typing Practice - Git Shell session 14 -DONE](Images/07032022_Typing_Practice_GitShell_session_14.jpg)
+
+- [Typing Practice - Git Shell session 15 -DONE](Images/07032022_Typing_Practice_GitShell_session_15.jpg)
+
+---
+
 **7/2/2022 -Day 2:**  
 _Crazy dog Bob let me sleep a bit more last night so I'm tired, but not bone-weary exhausted, YAY!_
 

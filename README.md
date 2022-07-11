@@ -2,6 +2,27 @@
 _A spot to drop progress on 401 pre-work assignments as well as other preparatory self-study records (and randos)_
 
 
+**7/10/2022**  
+_I am well rested today._
+
+<ins>401Pre-Work</ins>
+
+Career Coaching Assignment: Professional Competencies -DONE
+
+---
+
+**7/5/2022 -Day 5:**  
+_I slept so much! It was awesome!! Today's outlook is quite positive!_
+
+<ins>401Pre-Work</ins>
+
+- **Bash Practice -The Command Line**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _"If you are on Windows and intend to remotely log into another machine then you will need an SSH client. A rather good one is [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)"_
+
+
+---
+
 **7/4/2022 -Day 4:**  
 _Happy 4th of July! Sleep was broken a LOT last night (Thanks Bob!) I am dehydrated (and really not wanting water) and can barely hold my eyes open!_
 

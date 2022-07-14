@@ -2,6 +2,43 @@
 _A spot to drop progress on 401 pre-work assignments as well as other preparatory self-study records (and randos)_
 
 
+**7/11/2022**  
+_I am rested today. Too much to do on all fronts, but rested enough to face it with a degree of confidence._
+
+<ins>401Pre-Work</ins>
+
+- [Git Practice - Part 4 of 5 -A Mixed Bag](Images/GitPractice_A_Mixed_Bag.jpg)
+
+<img src="Images/TypingPracticeHeader-Ruby.JPG" width="350" />
+
+- [Typing Practice - Ruby session 1 -DONE](Images/07112022_Typing_Practice_Ruby_session_1.jpg)
+
+- [Typing Practice - Ruby session 2 -DONE](Images/07112022_Typing_Practice_Ruby_session_2.jpg)
+
+- [Typing Practice - Ruby session 3 -DONE](Images/07112022_Typing_Practice_Ruby_session_3.jpg)
+
+- [Typing Practice - Ruby session 4 -DONE](Images/07112022_Typing_Practice_Ruby_session_4.jpg)
+
+- [Typing Practice - Ruby session 5 -DONE](Images/07112022_Typing_Practice_Ruby_session_5.jpg)
+
+- [Typing Practice - Ruby session 6 -DONE](Images/07112022_Typing_Practice_Ruby_session_6.jpg)
+
+- [Typing Practice - Ruby session 7 -DONE](Images/07112022_Typing_Practice_Ruby_session_7.jpg)
+
+- [Typing Practice - Ruby session 8 -DONE](Images/07112022_Typing_Practice_Ruby_session_8.jpg)
+
+- [Typing Practice - Ruby session 9 -DONE](Images/07112022_Typing_Practice_Ruby_session_9.jpg)
+
+- [Typing Practice - Ruby session 10 -DONE](Images/07112022_Typing_Practice_Ruby_session_10.jpg)
+
+- [Typing Practice - Ruby session 11 -DONE](Images/07112022_Typing_Practice_Ruby_session_11.jpg)
+
+- [Typing Practice - Ruby session 12 -DONE](Images/07112022_Typing_Practice_Ruby_session_12.jpg)
+
+- [Typing Practice - Ruby session 13 -DONE](Images/07112022_Typing_Practice_Ruby_session_13.jpg)
+
+---
+
 **7/10/2022**  
 _I am well rested today._
 
@@ -29,7 +66,7 @@ _Happy 4th of July! Sleep was broken a LOT last night (Thanks Bob!) I am dehydra
 
 <ins>401Pre-Work</ins>
 
-- [Git Practice - Part 3 of 5 -Introduction Sequence -DONE](Images/GitPractice_Moving_Work_Around.jpg)
+- [Git Practice - Part 3 of 5 -Moving Work Around -DONE](Images/GitPractice_Moving_Work_Around.jpg)
 
 
 ---
@@ -40,7 +77,7 @@ _My sister braided my hair last night into the wee-early hours of the morning. I
 
 <ins>401Pre-Work</ins>
 
-- [Git Practice - Part 2 of 5 -Introduction Sequence DONE-](Images/GitPractice_Ramping_Up.jpg)
+- [Git Practice - Part 2 of 5 -Ramping Up DONE-](Images/GitPractice_Ramping_Up.jpg)
 
 <img src="Images/TypingPracticeHeader-GitShell.JPG" width="350" />
 

@@ -2,6 +2,71 @@
 _A spot to drop progress on 401 pre-work assignments as well as other preparatory self-study records (and randos)_
 
 
+<ins>Self-Study</ins>
+
+- **Bash Practice -Basic Navigation**
+
+- **Bash Practice -More About Files**
+
+- **Bash Practice -Manual Pages**
+
+- **Bash Practice -File Manipulation**
+
+**7/18/2022**
+
+<img src="Images/TypingPracticeHeader-Linux.JPG" width="350" />
+
+- [Typing Practice - Linux session 1 -DONE](Images/07172022_Typing_Practice_Linux_session_1.jpg)
+
+- [Typing Practice - Linux session 2 -DONE](Images/07172022_Typing_Practice_Linux_session_2.jpg)
+
+- [Typing Practice - Linux session 3 -DONE](Images/07172022_Typing_Practice_Linux_session_3.jpg)
+
+- [Typing Practice - Linux session 4 -DONE](Images/07172022_Typing_Practice_Linux_session_4.jpg)
+
+- [Typing Practice - Linux session 5 -DONE](Images/07172022_Typing_Practice_Linux_session_5.jpg)
+
+- [Typing Practice - Linux session 6 -DONE](Images/07172022_Typing_Practice_Linux_session_6.jpg)
+
+- [Typing Practice - Linux session 7 -DONE](Images/07172022_Typing_Practice_Linux_session_7.jpg)
+
+
+<img src="Images/TypingPracticeHeader-C++.JPG" width="350" />
+
+- [Typing Practice - C++ session 1 -DONE](Images/07142022_Typing_Practice_C++_session_1.jpg)
+
+- [Typing Practice - C++ session 2 -DONE](Images/07142022_Typing_Practice_C++_session_2.jpg)
+
+- [Typing Practice - C++ session 3 -DONE](Images/07152022_Typing_Practice_C++_session_3.jpg)
+
+- [Typing Practice - C++ session 4 -DONE](Images/07152022_Typing_Practice_C++_session_4.jpg)
+
+- [Typing Practice - C++ session 5 -DONE](Images/07172022_Typing_Practice_C++_session_5.jpg)
+
+- [Typing Practice - C++ session 6 -DONE](Images/07172022_Typing_Practice_C++_session_6.jpg)
+
+- [Typing Practice - C++ session 7 -DONE](Images/07172022_Typing_Practice_C++_session_7.jpg)
+
+- [Typing Practice - C++ session 8 -DONE](Images/07172022_Typing_Practice_C++_session_8.jpg)
+
+- [Typing Practice - C++ session 9 -DONE](Images/07172022_Typing_Practice_C++_session_9.jpg)
+
+- [Typing Practice - C++ session 10 -DONE](Images/07172022_Typing_Practice_C++_session_10.jpg)
+
+- [Typing Practice - C++ session 11 -DONE](Images/07172022_Typing_Practice_C++_session_11.jpg)
+
+- [Typing Practice - C++ session 12 -DONE](Images/07172022_Typing_Practice_C++_session_12.jpg)
+
+- [Typing Practice - C++ session 13 -DONE](Images/07172022_Typing_Practice_C++_session_13.jpg)
+
+- [Typing Practice - C++ session 14 -DONE](Images/07172022_Typing_Practice_C++_session_14.jpg)
+
+- [Typing Practice - C++ session 15 -DONE](Images/07172022_Typing_Practice_C++_session_15.jpg)
+
+- [Typing Practice - C++ session 16 -DONE](Images/07172022_Typing_Practice_C++_session_16.jpg)
+
+--- 
+
 **7/11/2022**  
 _I am rested today. Too much to do on all fronts, but rested enough to face it with a degree of confidence._
 

@@ -12,7 +12,29 @@ _A spot to drop progress on 401 pre-work assignments as well as other preparator
 
 - **Bash Practice -File Manipulation**
 
-**7/18/2022**
+**7/14/2022 - 7/18/2022**
+
+
+<img src="Images/TypingPracticeHeader-HaskellXmonad.JPG" width="350" />
+
+- [Typing Practice - Haskell Xmonad session 1 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_1.jpg)
+
+- [Typing Practice - Haskell Xmonad session 2 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_2.jpg)
+
+- [Typing Practice - Haskell Xmonad session 3 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_3.jpg)
+
+- [Typing Practice - Haskell Xmonad session 4 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_4.jpg)
+
+- [Typing Practice - Haskell Xmonad session 5 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_5.jpg)
+
+- [Typing Practice - Haskell Xmonad session 6 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_6.jpg)
+
+- [Typing Practice - Haskell Xmonad session 7 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_7.jpg)
+
+- [Typing Practice - Haskell Xmonad session 8 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_8.jpg)
+
+- [Typing Practice - Haskell Xmonad session 9 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_9.jpg)
+
 
 <img src="Images/TypingPracticeHeader-Linux.JPG" width="350" />
 

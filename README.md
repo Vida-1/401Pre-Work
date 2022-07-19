@@ -1,21 +1,38 @@
 ## 401 Pre-Work & Learning Journal
 _A spot to drop progress on 401 pre-work assignments as well as other preparatory self-study records (and randos)_
 
+---
 
-<ins>Self-Study</ins>
+**7/19/2022**
 
-- **Bash Practice -Basic Navigation**
+<img src="Images/TypingPracticeHeader-LessBootstrap.jpg" width="350" />
 
-- **Bash Practice -More About Files**
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_1.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_2.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_3.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_4.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_5.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_6.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_7.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_8.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_9.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_10.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_11.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_12.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_13.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_14.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_15.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_16.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_17.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_18.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_19.jpg)
+- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_20.jpg)
 
-- **Bash Practice -Manual Pages**
-
-- **Bash Practice -File Manipulation**
+---
 
 **7/14/2022 - 7/18/2022**
 
-
-<img src="Images/TypingPracticeHeader-HaskellXmonad.JPG" width="350" />
+<img src="Images/TypingPracticeHeader-HaskellXmonad.jpg" width="350" />
 
 - [Typing Practice - Haskell Xmonad session 1 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_1.jpg)
 
@@ -36,7 +53,7 @@ _A spot to drop progress on 401 pre-work assignments as well as other preparator
 - [Typing Practice - Haskell Xmonad session 9 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_9.jpg)
 
 
-<img src="Images/TypingPracticeHeader-Linux.JPG" width="350" />
+<img src="Images/TypingPracticeHeader-Linux.jpg" width="350" />
 
 - [Typing Practice - Linux session 1 -DONE](Images/07172022_Typing_Practice_Linux_session_1.jpg)
 
@@ -53,7 +70,7 @@ _A spot to drop progress on 401 pre-work assignments as well as other preparator
 - [Typing Practice - Linux session 7 -DONE](Images/07172022_Typing_Practice_Linux_session_7.jpg)
 
 
-<img src="Images/TypingPracticeHeader-C++.JPG" width="350" />
+<img src="Images/TypingPracticeHeader-C++.jpg" width="350" />
 
 - [Typing Practice - C++ session 1 -DONE](Images/07142022_Typing_Practice_C++_session_1.jpg)
 
@@ -96,7 +113,7 @@ _I am rested today. Too much to do on all fronts, but rested enough to face it w
 
 - [Git Practice - Part 4 of 5 -A Mixed Bag](Images/GitPractice_A_Mixed_Bag.jpg)
 
-<img src="Images/TypingPracticeHeader-Ruby.JPG" width="350" />
+<img src="Images/TypingPracticeHeader-Ruby.jpg" width="350" />
 
 - [Typing Practice - Ruby session 1 -DONE](Images/07112022_Typing_Practice_Ruby_session_1.jpg)
 
@@ -166,7 +183,7 @@ _My sister braided my hair last night into the wee-early hours of the morning. I
 
 - [Git Practice - Part 2 of 5 -Ramping Up DONE-](Images/GitPractice_Ramping_Up.jpg)
 
-<img src="Images/TypingPracticeHeader-GitShell.JPG" width="350" />
+<img src="Images/TypingPracticeHeader-GitShell.jpg" width="350" />
 
 - [Typing Practice - Git Shell session 1 -DONE](Images/07032022_Typing_Practice_GitShell_session_1.jpg)
 
@@ -217,7 +234,7 @@ _Crazy dog Bob let me sleep a bit more last night so I'm tired, but not bone-wea
 
 <ins>401Pre-Work</ins>
 
-<img src="Images/TypingPracticeHeader-CSharp.JPG" width="350" />
+<img src="Images/TypingPracticeHeader-CSharp.jpg" width="350" />
 
 - [Typing Practice - C# session 1 -DONE](Images/07022022_Typing_Practice_CSharp_session_1.jpg)
 
@@ -270,7 +287,7 @@ _I am exhausted (Crazy dog Bob kept me up all night) but still in a pretty good 
 
 <ins>401Pre-Work</ins>
 
-<img src="Images/TypingPracticeHeader-jQuery.JPG" width="350" />
+<img src="Images/TypingPracticeHeader-jQuery.jpg" width="350" />
 
 - [Typing Practice - jQuery session 1 -DONE](Images/07012022_Typing_Practice_jQuery_session_1.jpg)
 - [Typing Practice - jQuery session 2 -DONE](Images/07012022_Typing_Practice_jQuery_session_2.jpg)

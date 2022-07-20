@@ -3,30 +3,47 @@ _A spot to drop progress on 401 pre-work assignments as well as other preparator
 
 ---
 
+**7/20/2022**
+
+<img src="Images/TypingPracticeHeader-PHP.jpg" width="350" />
+
+- [Typing Practice - PHP session 1 -DONE](Images/07202022_Typing_Practice_PHP_session_1.jpg)
+- [Typing Practice - PHP session 2 -DONE](Images/07202022_Typing_Practice_PHP_session_2.jpg)
+- [Typing Practice - PHP session 3 -DONE](Images/07202022_Typing_Practice_PHP_session_3.jpg)
+- [Typing Practice - PHP session 4 -DONE](Images/07202022_Typing_Practice_PHP_session_4.jpg)
+- [Typing Practice - PHP session 5 -DONE](Images/07202022_Typing_Practice_PHP_session_5.jpg)
+- [Typing Practice - PHP session 6 -DONE](Images/07202022_Typing_Practice_PHP_session_6.jpg)
+- [Typing Practice - PHP session 7 -DONE](Images/07202022_Typing_Practice_PHP_session_7.jpg)
+- [Typing Practice - PHP session 8 -DONE](Images/07202022_Typing_Practice_PHP_session_8.jpg)
+- [Typing Practice - PHP session 9 -DONE](Images/07202022_Typing_Practice_PHP_session_9.jpg)
+- [Typing Practice - PHP session 10 -DONE](Images/07202022_Typing_Practice_PHP_session_10.jpg)
+- [Typing Practice - PHP session 11 -DONE](Images/07202022_Typing_Practice_PHP_session_11.jpg)
+---
+
 **7/19/2022**
 
 <img src="Images/TypingPracticeHeader-LessBootstrap.jpg" width="350" />
 
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_1.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_2.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_3.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_4.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_5.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_6.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_7.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_8.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_9.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_10.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_11.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_12.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_13.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_14.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_15.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_16.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_17.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_18.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_19.jpg)
-- [Typing Practice - Less Bootstrap -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_20.jpg)
+- [Typing Practice - Less Bootstrap session 1 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_1.jpg)
+- [Typing Practice - Less Bootstrap session 2 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_2.jpg)
+- [Typing Practice - Less Bootstrap session 3 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_3.jpg)
+- [Typing Practice - Less Bootstrap session 4 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_4.jpg)
+- [Typing Practice - Less Bootstrap session 5 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_5.jpg)
+- [Typing Practice - Less Bootstrap session 6 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_6.jpg)
+- [Typing Practice - Less Bootstrap session 7 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_7.jpg)
+- [Typing Practice - Less Bootstrap session 8 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_8.jpg)
+- [Typing Practice - Less Bootstrap session 9 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_9.jpg)
+- [Typing Practice - Less Bootstrap session 10 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_10.jpg)
+- [Typing Practice - Less Bootstrap session 11 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_11.jpg)
+- [Typing Practice - Less Bootstrap session 12 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_12.jpg)
+- [Typing Practice - Less Bootstrap session 13 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_13.jpg)
+- [Typing Practice - Less Bootstrap session 14 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_14.jpg)
+- [Typing Practice - Less Bootstrap session 15 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_15.jpg)
+- [Typing Practice - Less Bootstrap session 16 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_16.jpg)
+- [Typing Practice - Less Bootstrap session 17 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_17.jpg)
+- [Typing Practice - Less Bootstrap session 18 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_18.jpg)
+- [Typing Practice - Less Bootstrap session 19 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_19.jpg)
+- [Typing Practice - Less Bootstrap session 20 -DONE](Images/07192022_Typing_Practice_LessBootstrap_session_20.jpg)
 
 ---
 
@@ -35,73 +52,44 @@ _A spot to drop progress on 401 pre-work assignments as well as other preparator
 <img src="Images/TypingPracticeHeader-HaskellXmonad.jpg" width="350" />
 
 - [Typing Practice - Haskell Xmonad session 1 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_1.jpg)
-
 - [Typing Practice - Haskell Xmonad session 2 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_2.jpg)
-
 - [Typing Practice - Haskell Xmonad session 3 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_3.jpg)
-
 - [Typing Practice - Haskell Xmonad session 4 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_4.jpg)
-
 - [Typing Practice - Haskell Xmonad session 5 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_5.jpg)
-
 - [Typing Practice - Haskell Xmonad session 6 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_6.jpg)
-
 - [Typing Practice - Haskell Xmonad session 7 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_7.jpg)
-
 - [Typing Practice - Haskell Xmonad session 8 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_8.jpg)
-
 - [Typing Practice - Haskell Xmonad session 9 -DONE](Images/07182022_Typing_Practice_HaskellXmodad_session_9.jpg)
 
 
 <img src="Images/TypingPracticeHeader-Linux.jpg" width="350" />
 
 - [Typing Practice - Linux session 1 -DONE](Images/07172022_Typing_Practice_Linux_session_1.jpg)
-
 - [Typing Practice - Linux session 2 -DONE](Images/07172022_Typing_Practice_Linux_session_2.jpg)
-
 - [Typing Practice - Linux session 3 -DONE](Images/07172022_Typing_Practice_Linux_session_3.jpg)
-
 - [Typing Practice - Linux session 4 -DONE](Images/07172022_Typing_Practice_Linux_session_4.jpg)
-
 - [Typing Practice - Linux session 5 -DONE](Images/07172022_Typing_Practice_Linux_session_5.jpg)
-
 - [Typing Practice - Linux session 6 -DONE](Images/07172022_Typing_Practice_Linux_session_6.jpg)
-
 - [Typing Practice - Linux session 7 -DONE](Images/07172022_Typing_Practice_Linux_session_7.jpg)
 
 
 <img src="Images/TypingPracticeHeader-C++.jpg" width="350" />
 
 - [Typing Practice - C++ session 1 -DONE](Images/07142022_Typing_Practice_C++_session_1.jpg)
-
 - [Typing Practice - C++ session 2 -DONE](Images/07142022_Typing_Practice_C++_session_2.jpg)
-
 - [Typing Practice - C++ session 3 -DONE](Images/07152022_Typing_Practice_C++_session_3.jpg)
-
 - [Typing Practice - C++ session 4 -DONE](Images/07152022_Typing_Practice_C++_session_4.jpg)
-
 - [Typing Practice - C++ session 5 -DONE](Images/07172022_Typing_Practice_C++_session_5.jpg)
-
 - [Typing Practice - C++ session 6 -DONE](Images/07172022_Typing_Practice_C++_session_6.jpg)
-
 - [Typing Practice - C++ session 7 -DONE](Images/07172022_Typing_Practice_C++_session_7.jpg)
-
 - [Typing Practice - C++ session 8 -DONE](Images/07172022_Typing_Practice_C++_session_8.jpg)
-
 - [Typing Practice - C++ session 9 -DONE](Images/07172022_Typing_Practice_C++_session_9.jpg)
-
 - [Typing Practice - C++ session 10 -DONE](Images/07172022_Typing_Practice_C++_session_10.jpg)
-
 - [Typing Practice - C++ session 11 -DONE](Images/07172022_Typing_Practice_C++_session_11.jpg)
-
 - [Typing Practice - C++ session 12 -DONE](Images/07172022_Typing_Practice_C++_session_12.jpg)
-
 - [Typing Practice - C++ session 13 -DONE](Images/07172022_Typing_Practice_C++_session_13.jpg)
-
 - [Typing Practice - C++ session 14 -DONE](Images/07172022_Typing_Practice_C++_session_14.jpg)
-
 - [Typing Practice - C++ session 15 -DONE](Images/07172022_Typing_Practice_C++_session_15.jpg)
-
 - [Typing Practice - C++ session 16 -DONE](Images/07172022_Typing_Practice_C++_session_16.jpg)
 
 --- 
@@ -116,29 +104,17 @@ _I am rested today. Too much to do on all fronts, but rested enough to face it w
 <img src="Images/TypingPracticeHeader-Ruby.jpg" width="350" />
 
 - [Typing Practice - Ruby session 1 -DONE](Images/07112022_Typing_Practice_Ruby_session_1.jpg)
-
 - [Typing Practice - Ruby session 2 -DONE](Images/07112022_Typing_Practice_Ruby_session_2.jpg)
-
 - [Typing Practice - Ruby session 3 -DONE](Images/07112022_Typing_Practice_Ruby_session_3.jpg)
-
 - [Typing Practice - Ruby session 4 -DONE](Images/07112022_Typing_Practice_Ruby_session_4.jpg)
-
 - [Typing Practice - Ruby session 5 -DONE](Images/07112022_Typing_Practice_Ruby_session_5.jpg)
-
 - [Typing Practice - Ruby session 6 -DONE](Images/07112022_Typing_Practice_Ruby_session_6.jpg)
-
 - [Typing Practice - Ruby session 7 -DONE](Images/07112022_Typing_Practice_Ruby_session_7.jpg)
-
 - [Typing Practice - Ruby session 8 -DONE](Images/07112022_Typing_Practice_Ruby_session_8.jpg)
-
 - [Typing Practice - Ruby session 9 -DONE](Images/07112022_Typing_Practice_Ruby_session_9.jpg)
-
 - [Typing Practice - Ruby session 10 -DONE](Images/07112022_Typing_Practice_Ruby_session_10.jpg)
-
 - [Typing Practice - Ruby session 11 -DONE](Images/07112022_Typing_Practice_Ruby_session_11.jpg)
-
 - [Typing Practice - Ruby session 12 -DONE](Images/07112022_Typing_Practice_Ruby_session_12.jpg)
-
 - [Typing Practice - Ruby session 13 -DONE](Images/07112022_Typing_Practice_Ruby_session_13.jpg)
 
 ---
@@ -186,33 +162,19 @@ _My sister braided my hair last night into the wee-early hours of the morning. I
 <img src="Images/TypingPracticeHeader-GitShell.jpg" width="350" />
 
 - [Typing Practice - Git Shell session 1 -DONE](Images/07032022_Typing_Practice_GitShell_session_1.jpg)
-
 - [Typing Practice - Git Shell session 2 -DONE](Images/07032022_Typing_Practice_GitShell_session_2.jpg)
-
 - [Typing Practice - Git Shell session 3 -DONE](Images/07032022_Typing_Practice_GitShell_session_3.jpg)
-
 - [Typing Practice - Git Shell session 4 -DONE](Images/07032022_Typing_Practice_GitShell_session_4.jpg)
-
 - [Typing Practice - Git Shell session 5 -DONE](Images/07032022_Typing_Practice_GitShell_session_5.jpg)
-
 - [Typing Practice - Git Shell session 6 -DONE](Images/07032022_Typing_Practice_GitShell_session_6.jpg)
-
 - [Typing Practice - Git Shell session 7 -DONE](Images/07032022_Typing_Practice_GitShell_session_7.jpg)
-
 - [Typing Practice - Git Shell session 8 -DONE](Images/07032022_Typing_Practice_GitShell_session_8.jpg)
-
 - [Typing Practice - Git Shell session 9 -DONE](Images/07032022_Typing_Practice_GitShell_session_9.jpg)
-
 - [Typing Practice - Git Shell session 10 -DONE](Images/07032022_Typing_Practice_GitShell_session_10.jpg)
-
 - [Typing Practice - Git Shell session 11 -DONE](Images/07032022_Typing_Practice_GitShell_session_11.jpg)
-
 - [Typing Practice - Git Shell session 12 -DONE](Images/07032022_Typing_Practice_GitShell_session_12.jpg)
-
 - [Typing Practice - Git Shell session 13 -DONE](Images/07032022_Typing_Practice_GitShell_session_13.jpg)
-
 - [Typing Practice - Git Shell session 14 -DONE](Images/07032022_Typing_Practice_GitShell_session_14.jpg)
-
 - [Typing Practice - Git Shell session 15 -DONE](Images/07032022_Typing_Practice_GitShell_session_15.jpg)
 
 ---
@@ -237,45 +199,25 @@ _Crazy dog Bob let me sleep a bit more last night so I'm tired, but not bone-wea
 <img src="Images/TypingPracticeHeader-CSharp.jpg" width="350" />
 
 - [Typing Practice - C# session 1 -DONE](Images/07022022_Typing_Practice_CSharp_session_1.jpg)
-
 - [Typing Practice - C# session 2 -DONE](Images/07022022_Typing_Practice_CSharp_session_2.jpg)
-
 - [Typing Practice - C# session 3 -DONE](Images/07022022_Typing_Practice_CSharp_session_3.jpg)
-
 - [Typing Practice - C# session 4 -DONE](Images/07022022_Typing_Practice_CSharp_session_4.jpg)
-
 - [Typing Practice - C# session 5 -DONE](Images/07022022_Typing_Practice_CSharp_session_5.jpg)
-
 - [Typing Practice - C# session 6 -DONE](Images/07022022_Typing_Practice_CSharp_session_6.jpg)
-
 - [Typing Practice - C# session 7 -DONE](Images/07022022_Typing_Practice_CSharp_session_7.jpg)
-
 - [Typing Practice - C# session 8 -DONE](Images/07022022_Typing_Practice_CSharp_session_8.jpg)
-
 - [Typing Practice - C# session 9 -DONE](Images/07022022_Typing_Practice_CSharp_session_9.jpg)
-
 - [Typing Practice - C# session 10 -DONE](Images/07022022_Typing_Practice_CSharp_session_10.jpg)
-
 - [Typing Practice - C# session 11 -DONE](Images/07022022_Typing_Practice_CSharp_session_11.jpg)
-
 - [Typing Practice - C# session 12 -DONE](Images/07022022_Typing_Practice_CSharp_session_12.jpg)
-
 - [Typing Practice - C# session 13 -DONE](Images/07022022_Typing_Practice_CSharp_session_13.jpg)
-
 - [Typing Practice - C# session 14 -DONE](Images/07022022_Typing_Practice_CSharp_session_14.jpg)
-
 - [Typing Practice - C# session 15 -DONE](Images/07022022_Typing_Practice_CSharp_session_15.jpg)
-
 - [Typing Practice - C# session 16 -DONE](Images/07022022_Typing_Practice_CSharp_session_16.jpg)
-
 - [Typing Practice - C# session 17 -DONE](Images/07022022_Typing_Practice_CSharp_session_17.jpg)
-
 - [Typing Practice - C# session 18 -DONE](Images/07022022_Typing_Practice_CSharp_session_18.jpg)
-
 - [Typing Practice - C# session 19 -DONE](Images/07022022_Typing_Practice_CSharp_session_19.jpg)
-
 - [Typing Practice - C# session 20 -DONE](Images/07022022_Typing_Practice_CSharp_session_20.jpg)
-
 - [Typing Practice - C# session 21 -DONE](Images/07022022_Typing_Practice_CSharp_session_21.jpg)
 
 - [Git Practice - Part 1 of 5 -Introduction Sequence -DONE](Images/GitPractice_Introduction_Sequence.jpg)

@@ -1,9 +1,114 @@
 ## 401 Pre-Work & Learning Journal
 _A spot to drop progress on 401 pre-work assignments as well as other preparatory self-study records (and randos)_
 
+
+---
+
+**7/21/2022**
+
+<ins>Self-Study</ins>
+
+[Coursera: Version Control with Git](https://www.coursera.org/learn/version-control-with-git) - Week 1 of 4 -DONE
+
+Notes:
+- [Graphic from the course: Reading Git Help Messaging](Images/GitHelp.jpg)
+- "git log --oneline" shows the commit log in a condensed format
+- Remote Repos 
+- - "central source of truth" or "official state" of the project
+- - often integrates with other systems like issue trackers and _**continuous delivery**_ pipelines"
+- - - LaunchDarkly.com offers a free pdf download of a book called "Continuous Integration vs. Continuous Delivery vs. Continuous Deployment" (2nd Ed)
+- - Aside from GitHub, BitBucket is another hosted option for remote git repositories
+- - "On-premise" options for remote git repos may be hosted in a data center or on the cloud --flagging this in case the next module doesn't clarify meaning
+- - Other types of repositories include "Subversion", Mercurial", and "SourceForge" --flag
+- - you can add a local repository name after the link in the command **git clone < link >** if you want the local repo folder to have a name other than the name used on the remote host
+- - git remote --verbose (or git remote -v) displays info (alias name, fetch and push links) of the related remote repo
+
+<ins>401Pre-Work</ins>
+
+<img src="Images/TypingPracticeHeader-CRedis.jpg" width="350" />
+
+- [Typing Practice - CRedis session 1 -DONE](Images/07212022_Typing_Practice_CRedis_session_1.jpg)
+- [Typing Practice - CRedis session 2 -DONE](Images/07212022_Typing_Practice_CRedis_session_2.jpg)
+- [Typing Practice - CRedis session 3 -DONE](Images/07212022_Typing_Practice_CRedis_session_3.jpg)
+- [Typing Practice - CRedis session 4 -DONE](Images/07212022_Typing_Practice_CRedis_session_4.jpg)
+- [Typing Practice - CRedis session 5 -DONE](Images/07212022_Typing_Practice_CRedis_session_5.jpg)
+- [Typing Practice - CRedis session 6 -DONE](Images/07212022_Typing_Practice_CRedis_session_6.jpg)
+- [Typing Practice - CRedis session 7 -DONE](Images/07212022_Typing_Practice_CRedis_session_7.jpg)
+- [Typing Practice - CRedis session 8 -DONE](Images/07212022_Typing_Practice_CRedis_session_8.jpg)
+- [Typing Practice - CRedis session 9 -DONE](Images/07212022_Typing_Practice_CRedis_session_9.jpg)
+- [Typing Practice - CRedis session 10 -DONE](Images/07212022_Typing_Practice_CRedis_session_10.jpg)
+- [Typing Practice - CRedis session 11 -DONE](Images/07212022_Typing_Practice_CRedis_session_11.jpg)
+- [Typing Practice - CRedis session 12 -DONE](Images/07212022_Typing_Practice_CRedis_session_12.jpg)
+- [Typing Practice - CRedis session 13 -DONE](Images/07212022_Typing_Practice_CRedis_session_13.jpg)
+- [Typing Practice - CRedis session 14 -DONE](Images/07212022_Typing_Practice_CRedis_session_14.jpg)
+- [Typing Practice - CRedis session 15 -DONE](Images/07212022_Typing_Practice_CRedis_session_15.jpg)
+- [Typing Practice - CRedis session 16 -DONE](Images/07212022_Typing_Practice_CRedis_session_16.jpg)
+- [Typing Practice - CRedis session 17 -DONE](Images/07212022_Typing_Practice_CRedis_session_17.jpg)
+- [Typing Practice - CRedis session 18 -DONE](Images/07212022_Typing_Practice_CRedis_session_18.jpg)
+- [Typing Practice - CRedis session 19 -DONE](Images/07212022_Typing_Practice_CRedis_session_19.jpg)
+- [Typing Practice - CRedis session 20 -DONE](Images/07212022_Typing_Practice_CRedis_session_20.jpg)
+- [Typing Practice - CRedis session 21 -DONE](Images/07212022_Typing_Practice_CRedis_session_21.jpg)
+
+
+<img src="Images/TypingPracticeHeader-Python.jpg" width="350" />
+
+- [Typing Practice - Python session 1 -DONE](Images/07212022_Typing_Practice_Python_session_1.jpg)
+- [Typing Practice - Python session 2 -DONE](Images/07212022_Typing_Practice_Python_session_2.jpg)
+- [Typing Practice - Python session 3 -DONE](Images/07212022_Typing_Practice_Python_session_3.jpg)
+- [Typing Practice - Python session 4 -DONE](Images/07212022_Typing_Practice_Python_session_4.jpg)
+- [Typing Practice - Python session 5 -DONE](Images/07212022_Typing_Practice_Python_session_5.jpg)
+- [Typing Practice - Python session 6 -DONE](Images/07212022_Typing_Practice_Python_session_6.jpg)
+- [Typing Practice - Python session 7 -DONE](Images/07212022_Typing_Practice_Python_session_7.jpg)
+- [Typing Practice - Python session 8 -DONE](Images/07212022_Typing_Practice_Python_session_8.jpg)
+- [Typing Practice - Python session 9 -DONE](Images/07212022_Typing_Practice_Python_session_9.jpg)
+- [Typing Practice - Python session 10 -DONE](Images/07212022_Typing_Practice_Python_session_10.jpg)
+- [Typing Practice - Python session 11 -DONE](Images/07212022_Typing_Practice_Python_session_11.jpg)
+- [Typing Practice - Python session 12 -DONE](Images/07212022_Typing_Practice_Python_session_12.jpg)
+- [Typing Practice - Python session 13 -DONE](Images/07212022_Typing_Practice_Python_session_13.jpg)
+- [Typing Practice - Python session 14 -DONE](Images/07212022_Typing_Practice_Python_session_14.jpg)
+- [Typing Practice - Python session 15 -DONE](Images/07212022_Typing_Practice_Python_session_15.jpg)
+- [Typing Practice - Python session 16 -DONE](Images/07212022_Typing_Practice_Python_session_16.jpg)
+- [Typing Practice - Python session 17 -DONE](Images/07212022_Typing_Practice_Python_session_17.jpg)
+- [Typing Practice - Python session 18 -DONE](Images/07212022_Typing_Practice_Python_session_18.jpg)
+- [Typing Practice - Python session 19 -DONE](Images/07212022_Typing_Practice_Python_session_19.jpg)
+- [Typing Practice - Python session 20 -DONE](Images/07212022_Typing_Practice_Python_session_20.jpg)
+
+
+<img src="Images/TypingPracticeHeader-PerlMoose.jpg" width="350" />
+
+- [Typing Practice - Perl Moose session 1 -DONE](Images/07212022_Typing_Practice_Perl_session_1.jpg)
+- [Typing Practice - Perl Moose session 2 -DONE](Images/07212022_Typing_Practice_Perl_session_2.jpg)
+- [Typing Practice - Perl Moose session 3 -DONE](Images/07212022_Typing_Practice_Perl_session_3.jpg)
+- [Typing Practice - Perl Moose session 4 -DONE](Images/07212022_Typing_Practice_Perl_session_4.jpg)
+- [Typing Practice - Perl Moose session 5 -DONE](Images/07212022_Typing_Practice_Perl_session_5.jpg)
+- [Typing Practice - Perl Moose session 6 -DONE](Images/07212022_Typing_Practice_Perl_session_6.jpg)
+- [Typing Practice - Perl Moose session 7 -DONE](Images/07212022_Typing_Practice_Perl_session_7.jpg)
+- [Typing Practice - Perl Moose session 8 -DONE](Images/07212022_Typing_Practice_Perl_session_8.jpg)
+- [Typing Practice - Perl Moose session 9 -DONE](Images/07212022_Typing_Practice_Perl_session_9.jpg)
+- [Typing Practice - Perl Moose session 10 -DONE](Images/07212022_Typing_Practice_Perl_session_10.jpg)
+- [Typing Practice - Perl Moose session 11 -DONE](Images/07212022_Typing_Practice_Perl_session_11.jpg)
+- [Typing Practice - Perl Moose session 12 -DONE](Images/07212022_Typing_Practice_Perl_session_12.jpg)
+- [Typing Practice - Perl Moose session 13 -DONE](Images/07212022_Typing_Practice_Perl_session_13.jpg)
+
+
+<img src="Images/TypingPracticeHeader-Clojure.jpg" width="350" />
+
+- [Typing Practice - Less Bootstrap session 1 -DONE](Images/07212022_Typing_Practice_Clojure_session_1.jpg)
+- [Typing Practice - Less Bootstrap session 2 -DONE](Images/07212022_Typing_Practice_Clojure_session_2.jpg)
+- [Typing Practice - Less Bootstrap session 3 -DONE](Images/07212022_Typing_Practice_Clojure_session_3.jpg)
+- [Typing Practice - Less Bootstrap session 4 -DONE](Images/07212022_Typing_Practice_Clojure_session_4.jpg)
+- [Typing Practice - Less Bootstrap session 5 -DONE](Images/07212022_Typing_Practice_Clojure_session_5.jpg)
+- [Typing Practice - Less Bootstrap session 6 -DONE](Images/07212022_Typing_Practice_Clojure_session_6.jpg)
+- [Typing Practice - Less Bootstrap session 7 -DONE](Images/07212022_Typing_Practice_Clojure_session_7.jpg)
+- [Typing Practice - Less Bootstrap session 8 -DONE](Images/07212022_Typing_Practice_Clojure_session_8.jpg)
+- [Typing Practice - Less Bootstrap session 9 -DONE](Images/07212022_Typing_Practice_Clojure_session_9.jpg)
+- [Typing Practice - Less Bootstrap session 10 -DONE](Images/07212022_Typing_Practice_Clojure_session_10.jpg)
+
 ---
 
 **7/20/2022**
+
+<ins>401Pre-Work</ins>
 
 <img src="Images/TypingPracticeHeader-PHP.jpg" width="350" />
 
@@ -21,6 +126,8 @@ _A spot to drop progress on 401 pre-work assignments as well as other preparator
 ---
 
 **7/19/2022**
+
+<ins>401Pre-Work</ins>
 
 <img src="Images/TypingPracticeHeader-LessBootstrap.jpg" width="350" />
 
@@ -47,7 +154,9 @@ _A spot to drop progress on 401 pre-work assignments as well as other preparator
 
 ---
 
-**7/14/2022 - 7/18/2022**
+**7/14/2022 - 7/18/2022** 
+
+<ins>401Pre-Work</ins>
 
 <img src="Images/TypingPracticeHeader-HaskellXmonad.jpg" width="350" />
 

@@ -4,6 +4,50 @@ _A spot to drop progress on 401 pre-work assignments as well as other preparator
 
 ---
 
+**7/22/2022 & 7/23/2022**
+
+<ins>Self-Study</ins>
+
+[Coursera: Version Control with Git](https://www.coursera.org/learn/version-control-with-git) - Week 2 of 4
+
+Notes:
+- **Git Objects** Git uses objects to store (4) types of things:
+- - Commit Object -text file- contains commit user info, commit message, ref to parent(s), ref to root tree of project
+- - Annotated Tag -ref to a specific commit
+- - Tree - (user can't touch this type of object) - a list of directories and filenames in the project
+- - Blob - (user can't touch this type of object) - the content of a file in the project
+
+- **Git IDs** A Git ID is the name of a Git object.
+- - All Git objects are named with a 40-character hex string
+- - Also known as "object ID", [Secure Hash Algorithm One values("SHA-1")](https://en.wikipedia.org/wiki/SHA-1), "hash", "checksum"
+
+
+<ins>401Pre-Work</ins>
+
+<img src="Images/TypingPracticeHeader-Cheddar.jpg" width="350" />
+
+- [Typing Practice - Cheddar session 1 -DONE](Images/07222022_Typing_Practice_Cheddar_session_1.jpg)
+- [Typing Practice - Cheddar session 2 -DONE](Images/07222022_Typing_Practice_Cheddar_session_2.jpg)
+- [Typing Practice - Cheddar session 3 -DONE](Images/07222022_Typing_Practice_Cheddar_session_3.jpg)
+- [Typing Practice - Cheddar session 4 -DONE](Images/07222022_Typing_Practice_Cheddar_session_4.jpg)
+- [Typing Practice - Cheddar session 5 -DONE](Images/07222022_Typing_Practice_Cheddar_session_5.jpg)
+- [Typing Practice - Cheddar session 6 -DONE](Images/07222022_Typing_Practice_Cheddar_session_6.jpg)
+- [Typing Practice - Cheddar session 7 -DONE](Images/07222022_Typing_Practice_Cheddar_session_7.jpg)
+- [Typing Practice - Cheddar session 8 -DONE](Images/07222022_Typing_Practice_Cheddar_session_8.jpg)
+- [Typing Practice - Cheddar session 9 -DONE](Images/07222022_Typing_Practice_Cheddar_session_9.jpg)
+- [Typing Practice - Cheddar session 10 -DONE](Images/07222022_Typing_Practice_Cheddar_session_10.jpg)
+- [Typing Practice - Cheddar session 11 -DONE](Images/07222022_Typing_Practice_Cheddar_session_11.jpg)
+- [Typing Practice - Cheddar session 12 -DONE](Images/07222022_Typing_Practice_Cheddar_session_12.jpg)
+- [Typing Practice - Cheddar session 13 -DONE](Images/07222022_Typing_Practice_Cheddar_session_13.jpg)
+- [Typing Practice - Cheddar session 14 -DONE](Images/07232022_Typing_Practice_Cheddar_session_14.jpg)
+- [Typing Practice - Cheddar session 15 -DONE](Images/07232022_Typing_Practice_Cheddar_session_15.jpg)
+- [Typing Practice - Cheddar session 16 -DONE](Images/07232022_Typing_Practice_Cheddar_session_16.jpg)
+- [Typing Practice - Cheddar session 17 -DONE](Images/07232022_Typing_Practice_Cheddar_session_17.jpg)
+- [Typing Practice - Cheddar session 18 -DONE](Images/07232022_Typing_Practice_Cheddar_session_18.jpg)
+
+
+---
+
 **7/21/2022**
 
 <ins>Self-Study</ins>

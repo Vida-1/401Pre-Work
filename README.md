@@ -2,6 +2,85 @@
 _A spot to drop progress on 401 pre-work assignments as well as other preparatory self-study records (and randos)_
 
 
+
+---
+
+**7/25/2022 & 7/26/2022**
+_Took the 24th and part of 25th off to care for sick doggy._
+
+<ins>401Pre-Work</ins>
+
+**Typing Practice Exercises Complete**
+
+<img src="Images/TypingIO-DONE.JPG" width="350" />
+<img src="Images/TypingIO-Analytics.JPG" width="350" />
+
+<img src="Images/TypingPracticeHeader-Scala.jpg" width="350" />
+
+
+- [Typing Practice - Scala session 1 -DONE](Images/07262022_Typing_Practice_Scala_session_1.jpg)
+- [Typing Practice - Scala session 2 -DONE](Images/07262022_Typing_Practice_Scala_session_2.jpg)
+- [Typing Practice - Scala session 3 -DONE](Images/07262022_Typing_Practice_Scala_session_3.jpg)
+- [Typing Practice - Scala session 4 -DONE](Images/07262022_Typing_Practice_Scala_session_4.jpg)
+- [Typing Practice - Scala session 5 -DONE](Images/07262022_Typing_Practice_Scala_session_5.jpg)
+- [Typing Practice - Scala session 6 -DONE](Images/07262022_Typing_Practice_Scala_session_6.jpg)
+- [Typing Practice - Scala session 7 -DONE](Images/07262022_Typing_Practice_Scala_session_7.jpg)
+- [Typing Practice - Scala session 8 -DONE](Images/07262022_Typing_Practice_Scala_session_8.jpg)
+- [Typing Practice - Scala session 9 -DONE](Images/07262022_Typing_Practice_Scala_session_9.jpg)
+- [Typing Practice - Scala session 10 -DONE](Images/07262022_Typing_Practice_Scala_session_10.jpg)
+- [Typing Practice - Scala session 11 -DONE](Images/07262022_Typing_Practice_Scala_session_11.jpg)
+- [Typing Practice - Scala session 12 -DONE](Images/07262022_Typing_Practice_Scala_session_12.jpg)
+- [Typing Practice - Scala session 13 -DONE](Images/07262022_Typing_Practice_Scala_session_13.jpg)
+- [Typing Practice - Scala session 14 -DONE](Images/07262022_Typing_Practice_Scala_session_14.jpg)
+- [Typing Practice - Scala session 15 -DONE](Images/07262022_Typing_Practice_Scala_session_15.jpg)
+- [Typing Practice - Scala session 16 -DONE](Images/07262022_Typing_Practice_Scala_session_16.jpg)
+- [Typing Practice - Scala session 17 -DONE](Images/07262022_Typing_Practice_Scala_session_17.jpg)
+- [Typing Practice - Scala session 18 -DONE](Images/07262022_Typing_Practice_Scala_session_18.jpg)
+- [Typing Practice - Scala session 19 -DONE](Images/07262022_Typing_Practice_Scala_session_19.jpg)
+- [Typing Practice - Scala session 20 -DONE](Images/07262022_Typing_Practice_Scala_session_20.jpg)
+- [Typing Practice - Scala session 21 -DONE](Images/07262022_Typing_Practice_Scala_session_21.jpg)
+- [Typing Practice - Scala session 22 -DONE](Images/07262022_Typing_Practice_Scala_session_22.jpg)
+
+
+<img src="Images/TypingPracticeHeader-JavaGuava.jpg" width="350" />
+
+- [Typing Practice - Java Guava session 1 -DONE](Images/07262022_Typing_Practice_Java_session_1.jpg)
+- [Typing Practice - Java Guava session 2 -DONE](Images/07262022_Typing_Practice_Java_session_2.jpg)
+- [Typing Practice - Java Guava session 3 -DONE](Images/07262022_Typing_Practice_Java_session_3.jpg)
+- [Typing Practice - Java Guava session 4 -DONE](Images/07262022_Typing_Practice_Java_session_4.jpg)
+- [Typing Practice - Java Guava session 5 -DONE](Images/07262022_Typing_Practice_Java_session_5.jpg)
+- [Typing Practice - Java Guava session 6 -DONE](Images/07262022_Typing_Practice_Java_session_6.jpg)
+- [Typing Practice - Java Guava session 7 -DONE](Images/07262022_Typing_Practice_Java_session_7.jpg)
+- [Typing Practice - Java Guava session 8 -DONE](Images/07262022_Typing_Practice_Java_session_8.jpg)
+- [Typing Practice - Java Guava session 9 -DONE](Images/07262022_Typing_Practice_Java_session_9.jpg)
+- [Typing Practice - Java Guava session 10 -DONE](Images/07262022_Typing_Practice_Java_session_10.jpg)
+- [Typing Practice - Java Guava session 11 -DONE](Images/07262022_Typing_Practice_Java_session_11.jpg)
+- [Typing Practice - Java Guava session 12 -DONE](Images/07262022_Typing_Practice_Java_session_12.jpg)
+- [Typing Practice - Java Guava session 13 -DONE](Images/07262022_Typing_Practice_Java_session_13.jpg)
+- [Typing Practice - Java Guava session 14 -DONE](Images/07262022_Typing_Practice_Java_session_14.jpg)
+- [Typing Practice - Java Guava session 15 -DONE](Images/07262022_Typing_Practice_Java_session_15.jpg)
+- [Typing Practice - Java Guava session 16 -DONE](Images/07262022_Typing_Practice_Java_session_16.jpg)
+- [Typing Practice - Java Guava session 17 -DONE](Images/07262022_Typing_Practice_Java_session_17.jpg)
+
+<img src="Images/TypingPracticeHeader-ErlangRiak.jpg" width="350" />
+
+- [Typing Practice - Erlang Riak session 1 -DONE](Images/07252022_Typing_Practice_Erlang_session_1.jpg)
+- [Typing Practice - Erlang Riak session 2 -DONE](Images/07252022_Typing_Practice_Erlang_session_2.jpg)
+- [Typing Practice - Erlang Riak session 3 -DONE](Images/07252022_Typing_Practice_Erlang_session_3.jpg)
+- [Typing Practice - Erlang Riak session 4 -DONE](Images/07252022_Typing_Practice_Erlang_session_4.jpg)
+- [Typing Practice - Erlang Riak session 5 -DONE](Images/07252022_Typing_Practice_Erlang_session_5.jpg)
+- [Typing Practice - Erlang Riak session 6 -DONE](Images/07252022_Typing_Practice_Erlang_session_6.jpg)
+- [Typing Practice - Erlang Riak session 7 -DONE](Images/07252022_Typing_Practice_Erlang_session_7.jpg)
+- [Typing Practice - Erlang Riak session 8 -DONE](Images/07262022_Typing_Practice_Erlang_session_8.jpg)
+- [Typing Practice - Erlang Riak session 9 -DONE](Images/07262022_Typing_Practice_Erlang_session_9.jpg)
+- [Typing Practice - Erlang Riak session 10 -DONE](Images/07262022_Typing_Practice_Erlang_session_10.jpg)
+- [Typing Practice - Erlang Riak session 11 -DONE](Images/07262022_Typing_Practice_Erlang_session_11.jpg)
+- [Typing Practice - Erlang Riak session 12 -DONE](Images/07262022_Typing_Practice_Erlang_session_12.jpg)
+- [Typing Practice - Erlang Riak session 13 -DONE](Images/07262022_Typing_Practice_Erlang_session_13.jpg)
+- [Typing Practice - Erlang Riak session 14 -DONE](Images/07262022_Typing_Practice_Erlang_session_14.jpg)
+- [Typing Practice - Erlang Riak session 15 -DONE](Images/07262022_Typing_Practice_Erlang_session_15.jpg)
+- [Typing Practice - Erlang Riak session 16 -DONE](Images/07262022_Typing_Practice_Erlang_session_16.jpg)
+
 ---
 
 **7/22/2022 & 7/23/2022**

@@ -5,6 +5,12 @@ _A spot to drop progress on 401 pre-work assignments as well as other preparator
 
 ---
 
+**8/2/2022**
+<ins>401Pre-Work</ins>
+
+* Get Ready for JavaScript: Install developer tools and Utilities -DONE
+
+
 **7/25/2022 & 7/26/2022**
 _Took the 24th and part of 25th off to care for sick doggy._
 
